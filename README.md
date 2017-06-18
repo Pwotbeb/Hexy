@@ -1,10 +1,10 @@
 <p align="center">
-<img src="docs/Hexylogo.jpg" alt="Hexy logo" height="50%" width="50%"/>
+<img src="docs/Hexylogo.jpg" alt="Hexy logo" height="25%" width="25%"/>
 </p>
 
 
 <p align="center">
-<img src="docs/Hexy.jpeg" alt="Hexy robot" height="50%" width="50%"/>
+<img src="docs/Hexy.jpeg" alt="Hexy robot" height="75%" width="75%"/>
 </p>
 
 ### Progetto
