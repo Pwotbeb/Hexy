@@ -1,3 +1,5 @@
+# Hexy - Robot esapode
+
 <p align="center">
 <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="25%" width="25%"/>
 </p>
