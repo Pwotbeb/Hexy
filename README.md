@@ -7,6 +7,7 @@
 
 <p align="center">
 <img src="docs/Hexy.jpeg" alt="Hexy robot" height="75%" width="75%"/>
+<img src="docs/Hexy2.jpeg" alt="Hexy robot" height="75%" width="75%"/>
 </p>
 
 ### Progetto
