@@ -1,10 +1,10 @@
 # Hexy - Robot esapode
 
 <p align="center">
-<img src="docs/Hexylogo.jpg" alt="Hexy logo" height="15%" width="15%"/>
+  <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="15%" width="15%"/>
 </p>
 
-<br>
+---
 
 ### Progetto
 Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, progetto per l'Esame di Stato per l'a.s. 2016/2017.
@@ -14,19 +14,19 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
 - **stl**: file stl delle parti meccaniche.
 - **docs**: documentazione e immagini per la repo.
 
-<br>
+---
 
 <p align="center">
-<img src="docs/HexySolidworks.jpg" height="75%" width="75%"/> <br> Hexy design <br> <br>
-<img src="docs/Hexy.jpeg" height="75%" width="75%"/> <br> Struttura Hexy <br> <br>
-<img src="docs/Hexy2.jpg" height="75%" width="75%"/> <br> Hexy completo <br> <br>
- 
-<img align="left" src="docs/App1.jpg" width="50%" />
-<img align="right" src="docs/App2.jpg" width="50%" /> 
+  <img src="docs/HexySolidworks.jpg" height="75%" width="75%"/> <br> Hexy design <br> <br>
+  <img src="docs/Hexy.jpeg" height="75%" width="75%"/> <br> Struttura Hexy <br> <br>
+  <img src="docs/Hexy2.jpg" height="75%" width="75%"/> <br> Hexy completo <br> <br>
+  
+  <img align="left" src="docs/App1.jpg" width="50%" />
+  <img align="right" src="docs/App2.jpg" width="50%" /> 
 </p>
 
 <p align="center">
- Applicazione per il controllo remoto <br> <br>
+  Applicazione per il controllo remoto <br> <br>
 </p>
 
 ### Descrizione
@@ -37,5 +37,5 @@ Hexy è un robot esapode, composto appunto da sei zampe; ogni zampa è movimenta
 Per la realizzazione del progetto sono state disegnate e stampate in 3D tutte le parti plastiche necessarie ed è stato realizzato uno shield per Arduino Uno in modo da ottimizzare e semplificare tutti i collegamenti elettrici.
 
 <p align="center">
-<img src="docs/MappaConcettuale.png" alt="Mappa concettuale"/>
+  <img src="docs/MappaConcettuale.png" alt="Mappa concettuale"/>
 </p>
