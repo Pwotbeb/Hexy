@@ -25,6 +25,7 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
   
   <img align="left" src="docs/App1.jpg" width="500" />
   <img align="right" src="docs/App2.jpg" width="500" /> 
+  <br>
 </p>
 
 <p align="center">
