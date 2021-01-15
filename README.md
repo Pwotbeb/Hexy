@@ -13,9 +13,9 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
 - **docs**: documentazione e immagini per la repo.
 
 <p align="center">
-<img src="docs/HexySolidworks.jpg" height="75%" width="75%"/> <br> Hexy design
-<img src="docs/Hexy.jpeg" height="75%" width="75%"/> <br> Struttura Hexy
-<img src="docs/Hexy2.jpg" height="75%" width="75%"/> <br> Hexy completo
+<img src="docs/HexySolidworks.jpg" height="75%" width="75%"/> <br> Hexy design <br>
+<img src="docs/Hexy.jpeg" height="75%" width="75%"/> <br> Struttura Hexy <br>
+<img src="docs/Hexy2.jpg" height="75%" width="75%"/> <br> Hexy completo <br>
 </p>
 
 ### Descrizione
