@@ -4,12 +4,6 @@
 <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="25%" width="25%"/>
 </p>
 
-
-<p align="center">
-<img src="docs/Hexy.jpeg" alt="Hexy robot" height="75%" width="75%"/>
-<img src="docs/Hexy2.jpg" alt="Hexy robot" height="75%" width="75%"/>
-</p>
-
 ### Progetto
 Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, progetto per l'Esame di Stato per l'a.s. 2016/2017.
 
@@ -17,6 +11,12 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
 - **src**: sorgenti del codice per Arduino.
 - **stl**: file stl delle parti meccaniche.
 - **docs**: documentazione e immagini per la repo.
+
+<p align="center">
+<img src="docs/Hexy.jpeg" height="75%" width="75%" alt="Struttura Hexy"/>
+<img src="docs/Hexy2.jpg" height="75%" width="75%" alt="Hexy completo"/>
+<img src="docs/HexySolidworks.jpg" height="75%" width="75%" alt="Hexy design"/>
+</p>
 
 ### Descrizione
 Nello sviluppo di questa tesina si è affrontata la progettazione e realizzazione di un robot a sei zampe controllato da una scheda Arduino UNO e dotato di 12 servomotori per il movimento, un modulo Bluetooth per il controllo remoto tramite applicazione per smartphone, un convertitore DC-DC step down per l’alimentazione di potenza, accelerometro e giroscopio.
