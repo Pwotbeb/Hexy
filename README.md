@@ -20,8 +20,11 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
  <p float="left">
   <img src="docs/App1.jpg" width="500" />
   <img src="docs/App2.jpg" width="500" /> 
- <br> Applicazione per il controllo remoto <br> <br>
+ </p>
 </p>
+
+<p align="center">
+ <br> Applicazione per il controllo remoto <br> <br>
 </p>
 
 ### Descrizione
