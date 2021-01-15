@@ -4,7 +4,7 @@
   <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="15%" width="15%"/>
 </p>
 
---
+***
 
 ### Progetto
 Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, progetto per l'Esame di Stato per l'a.s. 2016/2017.
@@ -14,7 +14,7 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
 - **stl**: file stl delle parti meccaniche.
 - **docs**: documentazione e immagini per la repo.
 
---
+***
 
 <p align="center">
   <img src="docs/HexySolidworks.jpg" height="75%" width="75%"/> <br> Hexy design <br> <br>
