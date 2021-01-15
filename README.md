@@ -12,12 +12,17 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
 - **stl**: file stl delle parti meccaniche.
 - **docs**: documentazione e immagini per la repo.
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 <p align="center">
 <img src="docs/HexySolidworks.jpg" height="75%" width="75%"/> <br> Hexy design <br> <br>
 <img src="docs/Hexy.jpeg" height="75%" width="75%"/> <br> Struttura Hexy <br> <br>
 <img src="docs/Hexy2.jpg" height="75%" width="75%"/> <br> Hexy completo <br> <br>
   
-<img src="docs/App1.jpg." height="50%" width="50%" />  <img src="docs/App1.jpg." height="50%" width="50%" /> 
+<img src="docs/App1.jpg" height="50%" width="50%" />  <img src="docs/App1.jpg" height="50%" width="50%" /> 
 <br> Applicazione per il controllo remoto <br> <br>
 </p>
 
