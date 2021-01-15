@@ -1,4 +1,4 @@
-﻿# Hexy - Robot esapode
+# Hexy - Robot esapode
 
 <p align="center">
 <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="15%" width="15%"/>
@@ -18,7 +18,7 @@ Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, proge
 <img src="docs/Hexy2.jpg" height="75%" width="75%"/> <br> Hexy completo <br> <br>
 
 
-|(<img src="docs/App1.jpg" height="50%" width="50%"/>)  |  (<img src="docs/App2.jpg" height="50%" width="50%"/>) |
+|<img src="docs/App1.jpg" height="50%" width="50%"/>  |  <img src="docs/App2.jpg" height="50%" width="50%"/> |
 
 <br> Applicazione per il controllo remoto <br> <br>
 </p>
