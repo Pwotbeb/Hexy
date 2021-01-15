@@ -34,5 +34,5 @@ Per la realizzazione del progetto sono state disegnate e stampate in 3D tutte le
 ---
 
 <p align="center">
-  <img src="docs/MappaConcettuale.png" alt="Mappa concettuale"/>
+  <img src="docs/MappaConcettuale.png"/> <br> Mappa concettuale
 </p>
