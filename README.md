@@ -4,7 +4,9 @@
   <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="25%" width="25%"/>
 </p>
 
-Copyright &copy; 2017 Filippo Petri, Luca Molettieri
+<p align="center">
+  Copyright &copy; 2017 Filippo Petri, Luca Molettieri
+</p>
 
 ### Progetto:
 Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, progetto per l'Esame di Stato per l'a.s. 2016/2017.
