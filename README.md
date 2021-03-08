@@ -4,6 +4,8 @@
   <img src="docs/Hexylogo.jpg" alt="Hexy logo" height="25%" width="25%"/>
 </p>
 
+___
+
 <p align="center">
   Copyright &copy; 2017 Filippo Petri, Luca Molettieri
 </p>
