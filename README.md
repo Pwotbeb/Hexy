@@ -10,6 +10,8 @@ ___
   Copyright &copy; 2017 Filippo Petri, Luca Molettieri
 </p>
 
+___
+
 ### Progetto:
 Robot esapode a 2 gradi di libertà controllato da una scheda Arduino UNO, progetto per l'Esame di Stato per l'a.s. 2016/2017.
 
