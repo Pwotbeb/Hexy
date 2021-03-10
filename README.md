@@ -41,7 +41,7 @@ ___
 
 ___
 
-### Argomenti:
+### Mappa concettuale:
 <p align="center">
   <img src="docs/MappaConcettuale.png"/> <br> Mappa concettuale degli argomenti
 </p>
